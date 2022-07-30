@@ -1,0 +1,21 @@
+Social Media Messanger
+
+Author : Naveen
+
+Create Account Using Mobile or Email Code
+
+Update profile Code
+
+Chatscreen Code
+
+Status Code
+
+Lastseen Code
+
+Status View Code
+
+
+
+
+
+
